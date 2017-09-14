@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# Zeit pkg-cache
+.pkg-cache
+
+# Dockerpkg binary file
+app.bin
